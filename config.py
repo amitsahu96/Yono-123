@@ -7,7 +7,7 @@ BASE_URL = "https://spyeyeloots4.online/up_yonoV3"
 
 # License
 LICENSE_KEY = "LF-BALI-001"
-SPYEYE_API_KEY = "TBRASAHUREG77H"
+SPYEYE_API_KEY = "TBRASAHUREG77H1"
 SECRET_KEY = "7g0k9fs74m2b4c5e"
 LICENSE_SERVER = "https://spyeye-cv4o.onrender.com/api/check-license"
 
